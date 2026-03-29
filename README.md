@@ -95,7 +95,7 @@ Manma creates the development…
         .btn:hover {
             transform: translateY
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>My Website</title>
