@@ -8,7 +8,7 @@ Manma creates the development…
 </head>
 <body>
     <h1>Welcome to My Official Site!</h1>
-    <p>This site is hosted on GitHub Pages.</p>
+    
 </body>
 </html>
 
